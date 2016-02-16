@@ -1,65 +1,65 @@
 source_id: "lasermarker"
 features:
-  - id: 1
-    position: [-1.9392357, -1.1130101, 0.0]
+  - id: 0
+    position: [-1.93089, -1.07452, 0.0]
     description: Marker_East_404
-  - id: 2
-    position: [-0.6950296, -2.3525008, 0.0]
+  - id: 1
+    position: [-0.69503, -2.3525, 0.0]
     description: Marker_East_403
-  - id: 3
-    position: [-4.1881062, -3.3457546, 0.0]
+  - id: 2
+    position: [-4.17999, -3.32099, 0.0]
     description: Marker_East_406
+  - id: 3
+    position: [-7.72229, -6.84677, 0.0]
+    description: Marker_East_408
   - id: 4
-    position: [-7.7222868, -6.8467680, 0.0]
-    description: Marker_East_408	
-  - id: 5
-    position: [3.1738030, -0.1552379, 0.0]
+    position: [3.1738, -0.155238, 0.0]
     description: Marker_Elevator
-  - id: 6
-    position: [11.0687915, 9.3195552, 0.0]
+  - id: 5
+    position: [11.1776, 9.41158, 0.0]
     description: Marker_West_424
-  - id: 7
-    position: [12.1479129, 12.8708761, 0.0]
+  - id: 6
+    position: [12.2079, 12.9729, 0.0]
     description: Marker_West_425
-  - id: 8
-    position: [13.3875699, 11.6260691, 0.0]
+  - id: 7
+    position: [13.4402, 11.6746, 0.0]
     description: Marker_West_426
-  - id: 9
-    position: [9.8478594038448, 10.5881983388326, 0.0]
+  - id: 8
+    position: [9.93355, 10.6588, 0.0]
     description: Marker_West_423
-  - id: 10
-    position: [0.2299569822898, 1.0493845329517, 0.0]
+  - id: 9
+    position: [0.229957, 1.04938, 0.0]
     description: Stairwell_South_East_Wall_Source
-  - id: 11
-    position: [0.2471393860352, 7.2664516973402, 0.0]
+  - id: 10
+    position: [0.247139, 7.26645, 0.0]
     description: Stairwell_South_East_Wall_Target
-  - id: 12
-    position: [1.5182674726611, 8.5012865387816, 0.0]
+  - id: 11
+    position: [1.48732, 8.60792, 0.0]
     description: Stairwell_South_West_Wall_Source
-  - id: 13
-    position: [7.7365871917351, 8.5027553825111, 0.0]
+  - id: 12
+    position: [7.77065, 8.55385, 0.0]
     description: Stairwell_South_West_Wall_Target
-  - id: 14
-    position: [1.4707482811419, -0.2032488699445, 0.0]
+  - id: 13
+    position: [1.38289, -0.138832, 0.0]
     description: Stairwell_North_East_Wall_Source
-  - id: 15
-    position: [7.6843475043024, -0.2142738472839, 0.0]
+  - id: 14
+    position: [7.72919, -0.143735, 0.0]
     description: Stairwell_North_East_Wall_Target
-  - id: 16
-    position: [8.9803188254128, 7.2396524362813, 0.0]
+  - id: 15
+    position: [9.03914, 7.29849, 0.0]
     description: Stairwell_North_West_Wall_Source
-  - id: 17
-    position: [8.9537138555287, 1.0162193343073, 0.0]
+  - id: 16
+    position: [9.0027, 1.02958, 0.0]
     description: Stairwell_North_West_Wall_Target
-  - id: 18
+  - id: 17
     position: [3.351, 1.663, 0.0]
     description: 1
-  - id: 19
+  - id: 18
     position: [3.408, 3.519, 0.0]
     description: 2
-  - id: 20
-    position: [3.440, 5.000, 0.0]
+  - id: 19
+    position: [3.44, 5, 0.0]
     description: 3
-  - id: 21
-    position: [3.380, 6.546, 0.0]
+  - id: 20
+    position: [3.38, 6.546, 0.0]
     description: 4
