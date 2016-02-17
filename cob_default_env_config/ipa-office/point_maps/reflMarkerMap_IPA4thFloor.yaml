@@ -63,3 +63,9 @@ features:
   - id: 20
     position: [3.38, 6.546, 0.0]
     description: 4
+  - id: 21
+    position: [4.380, 6.862, 0.0]
+    description: 5
+  - id: 22
+    position: [6.020, 6.881, 0.0]
+    description: 6
