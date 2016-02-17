@@ -10,7 +10,7 @@ features:
     position: [-4.17999, -3.32099, 0.0]
     description: Marker_East_406
   - id: 3
-    position: [-7.72229, -6.84677, 0.0]
+    position: [-7.75047, -6.76226, 0.0]
     description: Marker_East_408
   - id: 4
     position: [3.1738, -0.155238, 0.0]
@@ -64,8 +64,8 @@ features:
     position: [3.38, 6.546, 0.0]
     description: 4
   - id: 21
-    position: [4.380, 6.862, 0.0]
+    position: [4.38, 6.862, 0.0]
     description: 5
   - id: 22
-    position: [6.020, 6.881, 0.0]
+    position: [6.02, 6.881, 0.0]
     description: 6
